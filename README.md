@@ -1,6 +1,6 @@
 ### Hi there, I am Michael Damulak 👋
 
-https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png
+![https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png]
 
 I'm a software engineer who is passionate about the web and how it can improve lives, creating technology to redifine people, and building a community around that. Some technologies I enjoy working with include ReactJS, React and (React API's), Redux (for state managment), Ruby, Ruby on Rails,Javascript,PostgreSQL, HTML $ CSS . I love contributing to open source project and i am looking forward to geting a GitHub Star 🌟 based on my involvement in the tech community. My interest in the Web ecosystem led me to Microverse, a community of ### Remote Software Engineers. Using core web technologies stack and remote team culture(Remote Pair programming, code reviews) on a daily basis to build amazing tech for users and developers.
 
