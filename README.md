@@ -1,4 +1,4 @@
-### Hi there, I am Michael Damulak 👋
+### Hi there, I am Michael 👋
 
 ![](media.png)
 
