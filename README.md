@@ -1,17 +1,17 @@
-### Hi there 👋
+### Hi there, I am Michael Damulak 👋
 
-<!--
-**em-em-D/EM-EM-D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-https://raw.githubusercontent.com/sagar-viradiya/sagar-viradiya/master/resources/banner.png
+https://raw.githubusercontent.com/M0nica/M0nica/master/gh-header-image-cropped.png
 
-Here are some ideas to get you started:
+I'm a software engineer who is passionate about the web and how it can improve lives, creating technology to redifine people, and building a community around that. Some technologies I enjoy working with include ReactJS, React and (React API's), Redux (for state managment), Ruby, Ruby on Rails,Javascript,PostgreSQL, HTML $ CSS . I love contributing to open source project and i am looking forward to geting a GitHub Star 🌟 based on my involvement in the tech community. My interest in the Web ecosystem led me to Microverse, a community of ### Remote Software Engineers. Using core web technologies stack and remote team culture(Remote Pair programming, code reviews) on a daily basis to build amazing tech for users and developers.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+
+
+-🔭 I’m currently Open to Remote Work with great team culture.
+ 🌱 I’m currently learning Front-end Tech such as (Angular)
+ 👯 I’m looking to collaborate on a decentralized co-operative system for employee
+
+
 ## 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ⚡ Fun fact: Apart from my well known coding addiction, I love traveling an exploring the world! #DigitalNormad
+
