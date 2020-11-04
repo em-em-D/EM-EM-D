@@ -16,6 +16,8 @@ I'm a software engineer who is passionate about the web and how it can improve l
 
 
 ## 📫 How to reach me: ...
-- 😄 Pronouns: ...
+- 😄 
+- Linkedin: https://www.linkedin.com/in/michael-damulak-970416123/
+- Twitter: @itz_mickymoor
 - ⚡ Fun fact: Apart from my well known coding addiction, I love traveling an exploring the world! #DigitalNormad
 
